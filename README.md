@@ -1,1 +1,1 @@
-﻿# BasketballScoreboard 🏀
+﻿# Basketball Scoreboard 🏀
