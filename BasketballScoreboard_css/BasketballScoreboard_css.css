@@ -1,13 +1,27 @@
 body{
     background-color: #212529;
-    color: #f1cc28;
-    text-shadow: 0 0 5px #f1cc28, 0 0 10px #f1cc28;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     text-align: center;
-    font-family: 'Montserrat', Courier, monospace;
-    font-size: 30px;
+    font-weight: bolder;
+}
+
+#team1{
+    color: #f1cc28;
+    background-color: black;
+    text-shadow: 0 0 5px #f1cc28, 0 0 10px #f1cc28;
+    font-family: 'VT323', Courier, monospace;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#team2{
+    color: #f1cc28;
+    background-color: black;
+    text-shadow: 0 0 5px #f1cc28, 0 0 10px #f1cc28;
+    font-family: 'VT323', Courier, monospace;
+    font-size: 50px;
     font-weight: bolder;
 }
 
